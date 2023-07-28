@@ -195,6 +195,10 @@ body{
 
 .login-body{
     background-image: url("../images/login-background.svg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+    height: 100vh;
 }
 .login-card{
     position: relative;
